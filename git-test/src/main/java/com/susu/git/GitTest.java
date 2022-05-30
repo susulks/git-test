@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("master test");
 //        冲突合并  是在合并之前对master也进行修改
         System.out.println("hot-fix test");
+        System.out.println("push test");
 
     }
 
